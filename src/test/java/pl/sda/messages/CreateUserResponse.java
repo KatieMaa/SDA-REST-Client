@@ -1,4 +1,4 @@
-package pl.sda.requests;
+package pl.sda.messages;
 
 /**
  * Created by RENT on 2017-03-06.
