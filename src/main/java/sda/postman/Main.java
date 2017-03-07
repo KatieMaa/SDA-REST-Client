@@ -1,10 +1,8 @@
-package pl.sda.postman;
+package sda.postman;
 
 import org.codehaus.jackson.map.ObjectMapper;
-import pl.sda.messages.CreateUserRequest;
-import pl.sda.messages.CreateUserResponse;
-import pl.sda.messages.GetUserResponse;
-import pl.sda.utils.HttpUtils;
+import sda.messages.CreateUserRequest;
+import sda.messages.CreateUserResponse;
 
 import java.io.IOException;
 import java.util.ArrayList;

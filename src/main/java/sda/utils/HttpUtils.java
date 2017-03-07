@@ -1,4 +1,4 @@
-package pl.sda.utils;
+package sda.utils;
 
 import org.apache.http.HttpResponse;
 

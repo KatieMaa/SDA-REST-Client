@@ -1,4 +1,4 @@
-package pl.sda.postman;
+package sda.postman;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
@@ -6,7 +6,7 @@ import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.HttpClientBuilder;
-import pl.sda.utils.HttpUtils;
+import sda.utils.HttpUtils;
 
 import java.io.IOException;
 
